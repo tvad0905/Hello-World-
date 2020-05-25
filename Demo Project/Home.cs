@@ -43,5 +43,18 @@ namespace Demo_Project
             var myForm = new ConfigFIileLog();
             myForm.Show();
         }
+
+        private void Home_Load(object sender, EventArgs e)
+        {
+            timer1.Start();
+            DateTime dt = DateTime.Now;
+            label1.Text = dt.ToString();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label1.Text = DateTime.Now.ToString();
+            timer1.Start();
+        }
     }
 }

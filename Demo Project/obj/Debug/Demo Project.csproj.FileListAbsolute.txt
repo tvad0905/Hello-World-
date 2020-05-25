@@ -11,3 +11,16 @@ D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.ConfigDevices.resource
 D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.ConfigFIileLog.resources
 D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.Diaglog_AddNew_ThongSoDoDat.resources
 D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.Home.resources
+F:\Ky 6 OJT\ES-EDS\Demo Project\bin\Debug\Demo Project.exe.config
+F:\Ky 6 OJT\ES-EDS\Demo Project\bin\Debug\Demo Project.exe
+F:\Ky 6 OJT\ES-EDS\Demo Project\bin\Debug\Demo Project.pdb
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo Project.csprojAssemblyReference.cache
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo_Project.ConfigDevices.resources
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo_Project.ConfigFIileLog.resources
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo_Project.Diaglog_AddNew_ThongSoDoDat.resources
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo_Project.Home.resources
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo_Project.Properties.Resources.resources
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo Project.csproj.GenerateResource.cache
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo Project.csproj.CoreCompileInputs.cache
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo Project.exe
+F:\Ky 6 OJT\ES-EDS\Demo Project\obj\Debug\Demo Project.pdb
