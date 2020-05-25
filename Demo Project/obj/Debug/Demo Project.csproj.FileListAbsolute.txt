@@ -1,0 +1,13 @@
+D:\.NET CORE\demo.git\Demo Project\bin\Debug\Demo Project.exe.config
+D:\.NET CORE\demo.git\Demo Project\bin\Debug\Demo Project.exe
+D:\.NET CORE\demo.git\Demo Project\bin\Debug\Demo Project.pdb
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo Project.csprojAssemblyReference.cache
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.Properties.Resources.resources
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo Project.csproj.GenerateResource.cache
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo Project.csproj.CoreCompileInputs.cache
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo Project.exe
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo Project.pdb
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.ConfigDevices.resources
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.ConfigFIileLog.resources
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.Diaglog_AddNew_ThongSoDoDat.resources
+D:\.NET CORE\demo.git\Demo Project\obj\Debug\Demo_Project.Home.resources
